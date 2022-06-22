@@ -3,6 +3,5 @@
 module Types
   class BaseObject
     BaseEdge
-    Types::BaseEdge # this also doesn't work
   end
 end

@@ -1,12 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    rake (13.0.6)
     zeitwerk (2.6.0)
 
 PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
+  rake (~> 13.0.6)
   zeitwerk (~> 2.6.0)
 
 RUBY VERSION
